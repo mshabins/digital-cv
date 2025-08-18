@@ -1,121 +1,166 @@
 # About me
-**email:** saurabh.annadate@iusspavia.it
+**email:** mshabins@gmail.com
 
-**Github:**  [saurabh-annadate](https://github.com/saurabh-annadate)
-**Linkdin** [Linkdin](https://www.linkedin.com/in/saurabh-annadate-468897138/)
+**Github:**  [Muhammed Shabin](https://github.com/mshabins)
+**Linkdin** [Linkdin](https://www.linkedin.com/in/muhammed-shabin-s-b5a463139/)
 
 
-## Education
-- **Ph.D. Climate Sciences** (Nov 2021 - Present) - in climate change and sustainable development. Jointly affiliated with IUSS Pavia and the University of Urbino, Italy.\
-                          Title: Estimation of greenhouse gas emissions using inverse modelling (top-down) method.
+## SUMMARY
+- Researcher in atmospheric chemistry with 7+ years of experience in air quality research, field measurements, and data analysis.
+- Led and collaborated on multiple research projects investigating Non-Methane Hydrocarbons (NMHCs), halocarbon emissions, and nocturnal oxidant chemistry in the Indo-Gangetic Plain.
+- Proficient in operating and maintaining advanced analytical instruments, including TD-GC-FID/ECD, CHARON-PTR-ToF-MS, and other trace gas analyzers, for volatile organic compound (VOC) and trace gas measurements.
+- Published multiple first-author and co-author papers in high-impact peer-reviewed journals.
+- Experienced in teaching, mentoring, and scientific outreach, with a strong track record of organizing
+academic and cultural events.
+- Committed to advancing atmospheric chemistry research and contributing to global air pollution mitigation through interdisciplinary collaboration.
+    
+## EDUCATION
+- **Ph.D. in Atmospheric Sciences** (Jan 2019 - Jun 2025) - Indian Institute of Science Education and Research  [(IISER)](http://www.iisermohali.ac.in/) Mohali, India.  Supervisor- Prof. Vinayak Sinha.\
+                          Title: Sources, sinks and chemistry of stabilized criegee intermediates, hydrocarbons and halocarbons in the Indo-Gangetic Plain.
   
-- **M.S. Physics** (August 2019 - June 2021) - Indian Institute of Science Education and Research Mohali, India [IISER Mohali](http://www.iisermohali.ac.in/)  
-   Cumulative Performance Index: 8.23/10.0
+- **Integrated MS in Chemistry** (August 2012 - May 2017) - Indian Institute of Science Education and Research [(IISER)](http://www.iisermohali.ac.in/) Mohali, India. Cumulative Performance Index: 7.6/10.0
   
-- **B.S. Physics** (August 2016 - June 2019) - Indian Institute of Science Education and Research Mohali, India [IISER Mohali](http://www.iisermohali.ac.in/)  
+- **Govt. Higher Secondary School, Anchal West, Kollam, Kerala, India** (April 2012) - Secondary Education (Class 12), Percentage Marks: 93/100.
 
-## Awards and Achievements
+  ## HIGHLIGHTED PROJECTS
+- **Nocturnal Oxidant Chemistry and Stabilized Criegee Intermediates (SCI)**: Led the one-year project on investigation of the role of SCI in night-time chemistry and sulfate aerosol formation in the northwest IGP, enhancing understanding of secondary aerosol production. (Published as first author)
+- **Non-Methane Hydrocarbon (NMHC) Study in the Indo-Gangetic Plain (IGP)**: Led and designed a two-year project on field measurements and analysis of NMHCs in the polluted IGP region, especially in the megacity of Delhi, providing critical insights into emission sources and air quality impacts. (Published as first author)
+- **Halocarbon Measurements in India**: Led and conducted one of the first detailed studies on halocarbons in India, addressing a significant research gap in atmospheric chemistry. (Manuscript under preparation)
+- **Non-methane hydrocarbon (NMHC) fingerprints of major urban and agricultural emission sources in the IGP**: Co-led a two-year research project on Non-Methane Hydrocarbon (NMHC) chemical fingerprints from various urban and agricultural emission sources, contributing to data collection and analysis. (Published as co-author)
+- **Open waste burning emission inventory for India (OWBEII) and strategies for effective mitigation in India**: Co-led two research projects focused on quantifying VOC emissions from open waste burning in India and evaluating mitigation strategies to curb pollution. (Published as co-author)
 
-- Recipient of **ERASMUS+** scholarship by EU programme for education, training, youth, and sport in 2023.
-- I was awarded the **Prime Minister's Research Fellowship (PMRF) 2021** by the Ministry of Education, Government of India.
-- Recipient of merit-cum-means fellowship at IISER Mohali.
-- Recipient of the Innovation in Science Pursuit for Inspired Research (INSPIRE) **Scheme for early attraction of talents for Science (SEATs)** scholarship
-from **Department of Science and Technology, Government of India (DST)**.
-- Qualified Joint Entrance Examination mains and advanced, 2016 conducted by National Testing Agency (NTA), India.
+## EXPERIMENTAL & ANALYTICAL EXPERTISE
+### Advanced theoretical and experimental working experience on:
+- Thermal Desorption - Gas Chromatography Flame Ionization Detection and Electron Capture Detection (TD-GC-FID/ECD) (Agilent)
+- NO-NO<sub>2</sub>-NO<sub>x</sub> analyzer (chemiluminescence) (ThermoFischer Scientific)
+- CO analyzer (Non Dispersive Infrared Red - Gas Filter Correlation) (ThermoFischer Scientific)
+- UV photometric ozone analyzer (ThermoFischer Scientific)
+- SO<sub>2</sub> analyzer (ThermoFischer Scientific)
+- Measurement of Volatile Organic Compounds (VOCs) and in headspace air, ambient air, and smoke samples.
+- Active sampling of air in SilcoCan sampling canisters (Restek) and glass flasks.
 
-## Skills
-- Language Skills: Marathi, Hindi, English, and Italian (beginner)
-- Programming languages: Python, R, Fortran, Matlab, LaTeX
-- Softwares: FLEXPART, FLEXINVERT+, Weather research forecasting (WRF-Chem), Climate data operators (CDO), Igor-pro, UNIX environment
-- Satellite data: Experience handling and visualizing large satellite data sets. Experience working on supercomputer clusters of NOAA and CINECA
-- Measurements: Hands-on experience in handling CO, NOx, and O3 analyzers
-- Machine Learning: [Neural networks](https://github.com/saurabh-annadate/Neural-network-from-scratch), [Natural language processing](https://github.com/saurabh-annadate/Recommender-System-based-on-user-clickstream), and SVMs [certificate](https://saurabh-annadate.github.io/certificates/Coursera%207NPDD3Q3V35Z.pdf).
+### Hands on working experience on:
+- Proton Transfer Reaction Quadrupole Mass Spectrometer (PTR-QMS) (Ionicon)
+- CHARON-Proton Transfer Reaction Time of Flight Mass Spectrometer (PTR-ToF-MS) (Ionicon)
+- Cavity Ring-down Spectrometer (CRDS) (Picarro)
+- Beta attenuation particulate matter analyzers (ThermoFischer Scientific)
+- Tube MAX-DOAS (Satellite Remote Sensing Group, Max Planck Institute for Chemistry)
+- Hands on working experience on spectroscopy instruments (UV-Vis, Fluorescence, IR & Atomic Absorption Spectrometer).
+- Automatic weather station (MeaTech Solutions LLP).
+- Suspended particulate matter (PM) collection by filtration.
 
-## Experience in Atmospheric modelling
-- **PhD Project:** Emission estimates of radiatively active species at the regional scale using inverse modelling techniques.\
-   Mentored by - Prof. Michela Maione, University of Urbino, Italy\
-  I use the analytical Bayesian inversion system to evaluate optimised fluxes of synthetic GHGs at the European country scale, using continuous, high-quality observations from the European observatories combined with footprints obtained using the atmospheric transport model (FLEXPART)
+## PEER REVIEWED JOURNAL PUBLICATIONS
 
- - **PARIS Horizon Europe:**  Estimation of European Black Carbon fluxes using inverse modelling. [link](https://horizoneurope-paris.eu/source-attribution-for-european-aerosols/)\
-  Mentored by - Prof. Michela Maione, University of Urbino, Italy\
-  I am involved in WP7, source attribution of European aerosols, of the PARIS Horizon Europe research project. I am leading the deliverable which aims to estimate European black carbon
-    emission fluxes using top-down methods. I am also developing an optimization algorithm for wet-scavenging coefficients in the wet deposition parametrization scheme in the FLEXPART model.
+1. **Shabin, M.**, Khatarkar, P., Hakkim, H., Awasthi, A., Mishra, S., & Sinha, V. (2024). **Monsoon and post-monsoon measurements of 53 non-methane hydrocarbons (NMHCs) in megacity Delhi and
+Mohali reveal similar NMHC composition across seasons.** *Urban Climate, 55,* 101983. [https://doi.org/10.1016/j.uclim.2024.101983](https://doi.org/10.1016/j.uclim.2024.101983).
+2. **Shabin, M.**, Kumar, A., Hakkim, H., Rudich, Y., & Sinha, V. (2023). **Sources, sinks, and chemistry of Stabilized Criegee Intermediates in the Indo-Gangetic Plain.** *Science of the Total Environment, 896,* 165281. [https://doi.org/10.1016/j.scitotenv.2023.165281](https://doi.org/10.1016/j.scitotenv.2023.165281).
+3. Chaudhary, P., Singh, R., **Shabin, M.**, Sharma, A., Bhatt, S., Sinha, V., & Sinha, B. (2022). **Replacing the greater evil: Can legalizing decentralized waste burning in improved devices reduce waste burning emissions for improved air quality?** *Environmental Pollution, 311,* 119897. [https://doi.org/10.1016/j.envpol.2022.119897](https://doi.org/10.1016/j.envpol.2022.119897).
+4. Chaudhary, P., Garg, S., George, T., **Shabin, M.**, Saha, S., Subodh, S., & Sinha, B. (2021). **Underreporting and open burning–the two largest challenges for sustainable waste management in India.** *Resources, Conservation and Recycling, 175,* 105865. [https://doi.org/10.1016/j.resconrec.2021.105865](https://doi.org/10.1016/j.resconrec.2021.105865)
+5. Kumar, A., Sinha, V., **Shabin, M.**, Hakkim, H., Bonsang, B., & Gros, V. (2020). **Non-methane hydrocarbon (NMHC) fingerprints of major urban and agricultural emission sources for use in source apportionment studies.** *Atmospheric Chemistry and Physics, 20(20),* 12133-12152. [https://doi.org/10.5194/acp-20-12133-2020](https://doi.org/10.5194/acp-20-12133-2020)
+
+### Manuscript under preparation
+1. **Shabin, M.**, Singh, G., Singh, L., Chaudhary, P., Mishra, S., Awasthi, A., Sinha, B., & Sinha, V. (2025). **Fugitive halocarbon emissions from open burning over India.**
+
+## CONFERENCE CONTRIBUTIONS
+
+1. **Shabin, M.**, Singh, G., Chaudhary, P., Mishra, S., Sinha, B., & Sinha, V. (2024). **Halocarbon measurements and 0.1◦ x 0.1◦ gridded emissions from open burning over India.** *iCACGP-IGAC Conference 2024,* submission no. 486, Kuala Lumpur, Malaysia.
+2. **Shabin, M.**, Kumar, A., Hakkim, H., Rudich, Y., & Sinha, V. (2023). **Stabilized Criegee Intermediates are important nocturnal oxidants in the summertime air of the Indo-Gangetic Plain.** *EGU General Assembly Conference Abstracts,* pp. EGU-8038, Vienna, Austria.
+3. Singh, L., Sinha, B., Patnana, D. P., Chaudhary, P., Awasthi, A., Mishra, S., **Shabin, M.,** & Sinha, V. (2024). **Changes in gridded emissions of air pollutants and rarely measured NMVOC from solid fuel-based cooking in India over the past decade.** *American Geophysical Union Fall Meeting 2024,* A07-09, Online. 
+4. Parkar, V., Datta, S., Hakkim, H., Kumar, A., **Shabin, M.,** Sinha, V., & Sinha, B. (2020). **Polyalthia longifolia (False Ashoka) is an ideal choice for better air quality at kerbside locations.** *EGU General Assembly Conference Abstracts,* No. EGU2020-922, Copernicus Meetings.
+5. Kumar, A., Sinha, V., **Shabin, M.,** Yadav, P., Hakkim, H., Gros, V., Sarda-Esteve, R., Bonsang, B., & Baisnee, D. (2019). **Speciation of 49 C2-C10 NMHCs during the post-harvest paddy residue fire emission period in the NW Indo Gangetic Plain using Thermal Desorption Gas Chromatography Flame Ionization Detection (TD-GC-FID).** *EGU General Assembly Conference Abstracts,* p. 13962, Vienna, Austria.
+
+## RESEARCH EXPERIENCE
+
+ - **Project Assistant *(March 2025- present)*:** Indian Institute of Science Education and Research (IISER), Mohali, India \
+     Advisor: Prof. Vinayak Sinha \
+     Project Title: **Realtime Ambient Source Apportionment of Gases and Aerosol for Mitigation (RASAGAM)**
+ 
+ - **Ph.D. *(Jan 2019- Jun 2025)*:** Indian Institute of Science Education and Research (IISER), Mohali, India \
+     Advisor: Prof. Vinayak Sinha \
+     Thesis title: **Sources, sinks and chemistry of stabilized criegee intermediates, hydrocarbons and halocarbons in the Indo-Gangetic Plain.**
+
+- **Project Assistant *(Jun 2017- Dec 2017)*:** Indian Institute of Science Education and Research (IISER), Mohali, India \
+     Advisors: Prof. Vinayak Sinha and Prof. Baerbel Sinha \
+     Thesis title: **The Atmospheric Chemistry of Climate Change, funded by DST, India.**
+ 
+- **MS Thesis project *(May 2016- May 2017)*:** Indian Institute of Science Education and Research (IISER), Mohali, India \
+     Advisors: Prof. Vinayak Sinha \
+     Thesis title: **Impacts of land use change on air quality analyzed using five years of continuous high temporal resolution in-situ measurements.**
+
+## FIELD CAMPAIGNS
+
+-  **[RASAGAM Project,](https://www.indiascienceandtechnology.gov.in/research/realtime-ambient-source-apportionment-gases-and-aerosol-mitigation-rasagam-indian-institute-science?field_area_id=2378)** Indian Meteorological Department, New Delhi, *Nov 2021- present.*\
+   RASAGAM: Realtime Ambient Source Apportionment of Gases and Aerosol for Mitigation\
+ The primary objective of the project is to quantify various constituents within atmospheric aerosols and gases in New Delhi, India, with the goal of elucidating the processes that drive gas-to-aerosol chemical transformations in response to meteorological and emission variability. \
+    Responsible for collecting gaseous samples and analyzing NMHCs and halocarbons using thermal desorption gas chromatography with flame ionization detection and electron capture detection (TD-GC-FID/ECD). Additionally, conducted suspended particulate matter (PM) collection through filtration techniques.
+ 
+- **[Winter Fog Experiment (WIFEX) Campaign,](https://www.currentscience.ac.in/Volumes/112/04/0767.pdf)** Indira Gandhi International (IGI) Airport , New Delhi, *Dec 2015- Feb 2016.*\
+ The Winter Fog Experiment (WIFEX) over the Indo-Gangetic Plain (IGP) aimed to improve short-term nowcasting (up to 6 hours) and forecasting accuracy for winter fog at different temporal and spatial scales. \
+    Assisted the research team in conducting offline whole-air sampling with stainless steel canisters, followed by VOC analysis using thermal desorption gas chromatography coupled with flame ionization detection (TD-GC-FID).
+  
+## HONORS AND AWARDS
+
+- **International Travel Grant,** IISER Mohali, 2024
+- **EGU Travel Grant,** University of Helsinki, 2023
+- **Junior Research Fellowship,** University Grants Commission, 2018
+- **INSPIRE fellowship to pursue PhD in India,** Department of Science and Technology, 2018
+- **INSPIRE Scholarship for BS - MS Dual Degree Program,** Department of Science and Technology, 2012-17
+- **Recipient of State Governor’s certificate (Rajyapuraskar) for one among the best students in the state,** Kerala, 2009
+
+## TALKS
+
+ - **[EGU General Assembly 2023 (AS5.13)](https://meetingorganizer.copernicus.org/EGU23/EGU23-8038.html)** April 2023, Vienna, Austria \
+         *Stabilized Criegee Intermediates are important nocturnal oxidants  in the summertime air of the Indo-Gangetic Plain.*
+
+ - **RASAGAM Project Meeting 2023** June 2023, Mohali, India \
+         *TD-GC-FID Measurements of C2 – C10 Non-Methane Hydrocarbons (NMHC)in Delhi and Mohali during Monsoon and Post Monsoon seasons as part of the RASAGAM Project.*
    
-- **MS Thesis:** A modelling study using WRF-Chem over north India with improved transport and waste-burning emissions  
-      Mentored by - Prof. Vinayak Sinha, IISER Mohali  
-      
-   Anthropogenic emissions can affect the local, regional, and global air quality and climate considerably. The road transport and waste-burning sectors are the major contributors to the anthropogenic emissions in India. In this work, we study road transport and open waste burning emissions using the WRF-Chem regional transport model. We incorporate new road transport and waste-burning emission inventories over India in the WRF-Chem setup.
- 
- 
-- **Summer 2020:** Study of the biogenic emissions using updated tree cover in the MEGAN model  
-      Mentored by - Prof. Vinayak Sinha, IISER Mohali  
-      There are a lot of discrepancies in actual tree cover over India and the one MEGAN (Model of Emissions of Gases and Aerosols from Nature) uses in the WRF-Chem setup. Trees significantly impact land-atmosphere feedback through evapotranspiration, photosynthesis, and isoprene emissions. We replaced the existing tree cover with the newly created tree cover dataset improving isoprene emissions, planetary boundary layer height, and temperature with the ground measurements and satellite data.
+ - **UGC Project Meeting on Measurements and Modeling of Atmospheric Composition** July 2022, Mohali, India \
+         *Assessing the potential of Stabilized Criegee Intermediates (SCI), their chemistry, and their production during summertime biomass burning events in the northwest Indo Gangetic Plain (NW-IGP).*
 
+## TEACHING EXPERIENCE
 
-## Publications
+ - **Teaching Assistant *(Jan - May 2020)*:** *Introduction to atmospheric and climate sciences (EES406),* IISER Mohali, India \
+   Provided personalized instruction and conducted problem-solving sessions for approximately 40 students in this course, enhancing their understanding and engagement with the subject matter.
 
-1. Hakkim, H., Kumar, A., **Annadate, S.**, Sinha, B., Sinha, V.(2021) “RTEII: A New High-Resolution (0.1° × 0.1°) Road Transport Emission Inventory for India of 74 Speciated NMVOCs, CO, NOx, NH3, CH4, CO2, PM2.5 Reveals Massive Overestimation of NOx and CO and Missing Nitromethane Emissions by Existing Inventories.” Atmospheric Environment: X 11: 100118. [https://doi.org/10.1016/j.aeaoa.2021.100118](https://doi.org/10.1016/j.aeaoa.2021.100118)
-2. Sharma, G., **Annadate, S.**, Sinha, B.(2022). "Will open waste burning become India’s largest air pollution source?" Environmental Pollution, Volume 292, Part A, 118310. [https://doi.org/10.1016/j.envpol.2021.118310](https://doi.org/10.1016/j.envpol.2021.118310)
-3. **Annadate, S.**, 2021, A modelling study using WRF-Chem over north India with improved transport and waste burning emissions", MS thesis, IISER Mohali.
-4. **Annadate, S.**, Falasca, S., Cesari, R., Giostra, U., Maione, M., and Arduini, J. A Sensitivity Study of a Bayesian Inversion Model Used to Estimate Emissions of Synthetic Greenhouse Gases at the European Scale. Atmosphere 15, 1 (Jan. 2024), 51. Number: 1 Publisher: Multidisciplinary Digital Publishing Institute. [https://www.mdpi.com/2073-4433/15/1/51](https://www.mdpi.com/2073-4433/15/1/51)
-5. Vojta, M., Plach, A., Annadate, S., Park, S., Lee, G., Purohit, P., Lindl, F., Lan, X., Mühle, J., Thompson, R. L., and Stohl, A.: A global re-analysis of regionally resolved emissions and atmospheric mole fractions of SF6 for the period 2005–2021, Atmospheric Chemistry and Physics 24, no. 21 (2024): 12465-12493.  [https://doi.org/10.5194/acp-24-12465-2024](https://doi.org/10.5194/acp-24-12465-2024)
-6. Hundal, R.A., **Annadate, S.**, Cesari, R., Collalti, A., Maione, M., Cristofanelli, P. Emissions of climate-altering species from open vegetation fires in the Mediterranean region - A review on methods and data. Science of The Total Environment 957 (2024): 177713. [https://doi.org/10.1016/j.scitotenv.2024.177713](https://doi.org/10.1016/j.scitotenv.2024.177713)
-7. Annadate, S., Mancinelli, E., Gonella, B., Moricci, F., Doherty, S.O., Stanley, K., Young, D., Vollmer, M.K., Cesari, R., Falasca, S., Giostra, U., Maione, M., Arduini, J. Monitoring the impact of EU F-gas regulation on HFC-134a emissions through a comparison of top-down and bottom-up estimates. Environ Sci Eur (2024) PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-5032486/v1](https://doi.org/10.21203/rs.3.rs-5032486/v1)
+ - **Teaching Assistant *(Aug - Dec 2019)*:** *Climate change and sustainable development (HSS636),* IISER Mohali, India \
+   Offered tailored guidance and support during survey sessions for approximately 50 students in this course, fostering deeper understanding and active engagement.
 
-## Conferences
-- **April 2024** European Geosciences Union(EGU) General Assembly, Vienna, Austria.\
-    Session Title: Estimates of HFC-134a Emissions over Europe informed by observations show a recent increase.
+ - **Training undergraduates and other PhD scholars on TD-GC-FID/ECD *(2019 - present)*:** *Analysis of NMHCs and halocarbons in air samples.* 
+   
+   
+## SOFTWARE EXPERTISE
+- **Programming languages:** Python, R, Matlab, LaTeX
+- **Plotting Softwares:** IGOR Pro analysis software, R Studio, Jupyter Notebook
+- **TD-GC-FID/ECD Softwares:** OpenLAB CDS ChemStation (online & offline) (Agilent Technologies), Maverick Bonanza (Thermal Desorption) (Markes International)
+- **PTR-MS Softwares:** Ionicon Data Analyzer (IDA), PTR-MS viewer
+- **Modelling:** F0AM model, Positive Matrix Factorization (PMF) (both hands on experience)
+- **Operating Systems:** Windows, Linux
+- **GIS Softwares:** ArcGIS, PanMap
+- **MS Office:** Powerpoint, Excel
+- **Typing Softwares:** Word, Overleaf
 
-- **June 2023**  GEIA: Global Emissions InitiAtive 20th conference, Brussels, Belgium (poster presentation).\
-    Title: Long-term emission estimates of radiatively active species at the regional scale using inverse modelling techniques.
+## WORKSHOPS AND COURSES
+- **Intensive Workshop on Atmospheric and Environmental Chemistry (IWAEC)**, Virtual,  *July 2021*
+- **American Chemical Society (ACS) workshop on scientific writing**, IISER Mohali, *Nov 2023*
+- **ArcGIS Workshop by Environmental Systems Research Institute and IISER Mohali**, *Aug 2019*
+- **Introduction to Atmospheric Chemistry and Physics**, [IISER Mohali](https://www.iisermohali.ac.in/files/webfolders/courses-of-study-2023_Updated/node379.html), *Aug - Dec 2015*
+- **Introduction to Environmental Sciences**, [IISER Mohali](https://www.iisermohali.ac.in/files/webfolders/courses-of-study-2023_Updated/node380.html), *Jan - May 2016*
+- **Climate change and sustainable development**, [IISER Mohali](https://www.iisermohali.ac.in/files/webfolders/courses-of-study-2023_Updated/node250.html), *Jan - May 2019*
+- **Selected analytical techniques**, [IISER Mohali](https://www.iisermohali.ac.in/files/webfolders/courses-of-study-2023_Updated/node360.html), *Jan - May 2015*
 
-- **May 2023** Advanced Global Atmospheric Gases Experiment (AGAGE) 67th meeting, CNR Bologna, Italy (oral presentation).\
-    Title: Recent decrease in the HFC-134a emissions estimates over Italy: A top-down perspective
+  ## LEADERSHIP AND ORGANIZATIONAL ROLES
 
+ - **National Science Day Demonstrations, IISER Mohali,** *Sept 2019*  \
+         *Led and coordinated department-wide demonstrations on Science Day, engaging and educating over 400 students through interactive scientific presentations.*
 
-## Co-authored conference contributions
-- Feb 2024 5th Congress of the Italian Association of Science for the Atmosphere and the Meteorology, Lecce, Italy (oral presentation).\
-    Title: MEDUSA-GC/MS solution, the most recent cryotechnology applied to the continuous analysis of climate-altering substances in air samples
+ - **Event co-ordinator, Onam, IISER Mohali** 2013 - 2022 \
+         *Led the planning and execution of multiple cultural events, including Onam, at IISER Mohali, fostering community engagement and celebrating diversity on campus.*
+   
+ - **Chess co-ordinator, IISER Mohali** 2014 - 2022 \
+         *Led the organization of multiple chess tournaments at IISER Mohali, including national-level events, overseeing logistics, player coordination, and tournament execution.*
 
-- Jan 2024 PARIS-Horizon EU project Annual Meeting, Bristol, UK (oral presentation).\
-    Title: Top-down Italian emissions of HFC-134a: 15 years trend and a comparison with the Italian National Inventory Reports.
-
-- Sept 2023 20th Congress of Italian Chemical Society, Division of Environmental Chemistry, Ischia, Italy (oral presentation).\
-    Title: Long-term emission estimates of radiatively active species at the regional scale using inverse modelling techniques: Science for Service
-
-- April 2023 European Geosciences Union(EGU) General Assembly, Vienna, Austria (oral presentation)
-
-## Other projects
- - **Summer 2019:** Setting up optical tweezers and making a photo-acoustic sensor using Febri-Perot cavity  \
- Mentored by - Dr Sameer Biswas, IISER Mohali  
- My project was to develop a Fabri-Perot cavity-based sensor that can detect small photo-acoustic vibrations. This can be used to monitor living cells.
- 
- - **Summer 2018:** Optimization of RF waves using genetic algorithm  \
-  Mentored by - Dr Kavita Dorai, IISER Mohali  
-  I learned about quantum unitaries and quantum gates in this project. I also learned about genetic algorithms and their wide applications.
- 
-- **Statistical physics:** Implementation of Metropolis and Wolff algorithm on Ising model in Python  \
-  This project explores the Metropolis algorithm and its implementation on the 2D Ising model in great detail. Monte Carlo simulations were used to calculate various critical parameters involved. [code](https://github.com/saurabh-annadate/Implementation-of-Metropolis-and-Wolff-algorithm-on-Ising-model-in-python) 
- 
-- **Fieldwork:** Study of anthropogenic emissions and mitigation effects of Happy seeder in rural India  \
- In this project, I surveyed farmers to know the paddy residue burning practices in detail. I also gathered information on the usage of happy seeder and studied its mitigating effects on climate change.
- 
-- **Data Science:** Employee Attrition analysis using data science techniques  \
- The aim of this project was to use various classification algorithms to classify employees based on attrition. Learned various data visualization and manipulation techniques. [code](https://github.com/saurabh-annadate/IBM-HR-Analytics-Employee-Attrition-Performance)
-
-- **Machine Learning:**
-1. Recognize handwritten numbers using Neural Network(Deep Learning)  \
-Analysis of different layered neural networks with different activation functions. [code](https://github.com/saurabh-annadate/Neural-network-from-scratch) 
-2. Recommender System based on user clickstream \
-The primary objective of this project was to build an efficient News Recommender System that can attract more users. Learned Natural Language Processing. [code](https://github.com/saurabh-annadate/Recommender-System-based-on-user-clickstream)
-
-## Workshops attended
-1. July 2022: Dare UK and Class International Summer School 2022, Southampton, UK
-2. May 2022: 65th Meeting of AGAGE Scientists and Cooperating Networks Empa Akademie – Dübendorf, Switzerland
-3. Dec 2021: 3rd EUMETSAT/ESA/ECMWF joint training in atmospheric composition
-4. Nov 2021: Workshop on Optical Aerosol properties by Italian Aerosol Society
-5. July 2021 IWAEC: Intensive Workshop on Atmospheric and Environmental Chemistry
-6. April 2021: Message Passing Interface(MPI) workshop, IISER Mohali
-7. Oct 2020: Vaishwik Vaighyanik(VAIBHAV) summit for climate change, India
+- **Football Team Captain, IISER Mohali** 2015-2019 \
+         *Captained and led the college football team in multiple tournaments, both on and off campus, fostering teamwork, strategy, and competitive excellence.*
 
 
