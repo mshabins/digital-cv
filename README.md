@@ -32,6 +32,8 @@ academic and cultural events.
 ## EXPERIMENTAL & ANALYTICAL EXPERTISE
 ### Advanced theoretical and experimental working experience on:
 - Thermal Desorption - Gas Chromatography Flame Ionization Detection and Electron Capture Detection (TD-GC-FID/ECD) (Agilent)
+- Proton Transfer Reaction Quadrupole Mass Spectrometer (PTR-QMS) (Ionicon)
+- CHARON-Proton Transfer Reaction Time of Flight Mass Spectrometer (PTR-ToF-MS) (Ionicon)
 - NO-NO<sub>2</sub>-NO<sub>x</sub> analyzer (chemiluminescence) (ThermoFischer Scientific)
 - CO analyzer (Non Dispersive Infrared Red - Gas Filter Correlation) (ThermoFischer Scientific)
 - UV photometric ozone analyzer (ThermoFischer Scientific)
@@ -40,8 +42,6 @@ academic and cultural events.
 - Active sampling of air in SilcoCan sampling canisters (Restek) and glass flasks.
 
 ### Hands on working experience on:
-- Proton Transfer Reaction Quadrupole Mass Spectrometer (PTR-QMS) (Ionicon)
-- CHARON-Proton Transfer Reaction Time of Flight Mass Spectrometer (PTR-ToF-MS) (Ionicon)
 - Cavity Ring-down Spectrometer (CRDS) (Picarro)
 - Beta attenuation particulate matter analyzers (ThermoFischer Scientific)
 - Tube MAX-DOAS (Satellite Remote Sensing Group, Max Planck Institute for Chemistry)
@@ -63,11 +63,13 @@ Mohali reveal similar NMHC composition across seasons.** *Urban Climate, 55,* 10
 
 ## CONFERENCE CONTRIBUTIONS
 
-1. **Shabin, M.**, Singh, G., Chaudhary, P., Mishra, S., Sinha, B., & Sinha, V. (2024). **Halocarbon measurements and 0.1◦ x 0.1◦ gridded emissions from open burning over India.** *iCACGP-IGAC Conference 2024,* submission no. 486, Kuala Lumpur, Malaysia.
-2. **Shabin, M.**, Kumar, A., Hakkim, H., Rudich, Y., & Sinha, V. (2023). **Stabilized Criegee Intermediates are important nocturnal oxidants in the summertime air of the Indo-Gangetic Plain.** *EGU General Assembly Conference Abstracts,* pp. EGU-8038, Vienna, Austria.
-3. Singh, L., Sinha, B., Patnana, D. P., Chaudhary, P., Awasthi, A., Mishra, S., **Shabin, M.,** & Sinha, V. (2024). **Changes in gridded emissions of air pollutants and rarely measured NMVOC from solid fuel-based cooking in India over the past decade.** *American Geophysical Union Fall Meeting 2024,* A07-09, Online. 
-4. Parkar, V., Datta, S., Hakkim, H., Kumar, A., **Shabin, M.,** Sinha, V., & Sinha, B. (2020). **Polyalthia longifolia (False Ashoka) is an ideal choice for better air quality at kerbside locations.** *EGU General Assembly Conference Abstracts,* No. EGU2020-922, Copernicus Meetings.
-5. Kumar, A., Sinha, V., **Shabin, M.,** Yadav, P., Hakkim, H., Gros, V., Sarda-Esteve, R., Bonsang, B., & Baisnee, D. (2019). **Speciation of 49 C2-C10 NMHCs during the post-harvest paddy residue fire emission period in the NW Indo Gangetic Plain using Thermal Desorption Gas Chromatography Flame Ionization Detection (TD-GC-FID).** *EGU General Assembly Conference Abstracts,* p. 13962, Vienna, Austria.
+1. **Shabin, M.**, Khatarkar, P., Hakkim, H., Awasthi, A., Mishra, S., & Sinha, V. (2025). **Monsoon and post-monsoon measurements of 53 non-methane hydrocarbons (NMHCs) in megacity Delhi and
+Mohali reveal similar NMHC composition across seasons.** *iCACGP-IGAC ECR Online Conference 2025,* submission no. 149, Online.
+2. **Shabin, M.**, Singh, G., Chaudhary, P., Mishra, S., Sinha, B., & Sinha, V. (2024). **Halocarbon measurements and 0.1◦ x 0.1◦ gridded emissions from open burning over India.** *iCACGP-IGAC Conference 2024,* submission no. 486, Kuala Lumpur, Malaysia.
+3. **Shabin, M.**, Kumar, A., Hakkim, H., Rudich, Y., & Sinha, V. (2023). **Stabilized Criegee Intermediates are important nocturnal oxidants in the summertime air of the Indo-Gangetic Plain.** *EGU General Assembly Conference Abstracts,* pp. EGU-8038, Vienna, Austria.
+4. Singh, L., Sinha, B., Patnana, D. P., Chaudhary, P., Awasthi, A., Mishra, S., **Shabin, M.,** & Sinha, V. (2024). **Changes in gridded emissions of air pollutants and rarely measured NMVOC from solid fuel-based cooking in India over the past decade.** *American Geophysical Union Fall Meeting 2024,* A07-09, Online. 
+5. Parkar, V., Datta, S., Hakkim, H., Kumar, A., **Shabin, M.,** Sinha, V., & Sinha, B. (2020). **Polyalthia longifolia (False Ashoka) is an ideal choice for better air quality at kerbside locations.** *EGU General Assembly Conference Abstracts,* No. EGU2020-922, Copernicus Meetings.
+6. Kumar, A., Sinha, V., **Shabin, M.,** Yadav, P., Hakkim, H., Gros, V., Sarda-Esteve, R., Bonsang, B., & Baisnee, D. (2019). **Speciation of 49 C2-C10 NMHCs during the post-harvest paddy residue fire emission period in the NW Indo Gangetic Plain using Thermal Desorption Gas Chromatography Flame Ionization Detection (TD-GC-FID).** *EGU General Assembly Conference Abstracts,* p. 13962, Vienna, Austria.
 
 ## RESEARCH EXPERIENCE
 
@@ -120,6 +122,9 @@ Mohali reveal similar NMHC composition across seasons.** *Urban Climate, 55,* 10
 
 ## TEACHING EXPERIENCE
 
+ - **Teaching Assistant *(Aug 2025 - present)*:** *Air, Water and Soil Lab (EES311),* IISER Mohali, India \
+   Guided around 18 students in VOC sampling and the analysis of 53 NMHCs, fostering their practical skills, understanding, and active engagement with the subject.
+   
  - **Teaching Assistant *(Jan - May 2020)*:** *Introduction to atmospheric and climate sciences (EES406),* IISER Mohali, India \
    Provided personalized instruction and conducted problem-solving sessions for approximately 40 students in this course, enhancing their understanding and engagement with the subject matter.
 
@@ -149,7 +154,7 @@ Mohali reveal similar NMHC composition across seasons.** *Urban Climate, 55,* 10
 - **Climate change and sustainable development**, [IISER Mohali](https://www.iisermohali.ac.in/files/webfolders/courses-of-study-2023_Updated/node250.html), *Jan - May 2019*
 - **Selected analytical techniques**, [IISER Mohali](https://www.iisermohali.ac.in/files/webfolders/courses-of-study-2023_Updated/node360.html), *Jan - May 2015*
 
-  ## LEADERSHIP AND ORGANIZATIONAL ROLES
+## LEADERSHIP AND ORGANIZATIONAL ROLES
 
  - **National Science Day Demonstrations, IISER Mohali,** *Sept 2019*  \
          *Led and coordinated department-wide demonstrations on Science Day, engaging and educating over 400 students through interactive scientific presentations.*
