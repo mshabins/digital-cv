@@ -59,7 +59,7 @@ Mohali reveal similar NMHC composition across seasons.** *Urban Climate, 55,* 10
 5. Kumar, A., Sinha, V., **Shabin, M.**, Hakkim, H., Bonsang, B., & Gros, V. (2020). **Non-methane hydrocarbon (NMHC) fingerprints of major urban and agricultural emission sources for use in source apportionment studies.** *Atmospheric Chemistry and Physics, 20(20),* 12133-12152. [https://doi.org/10.5194/acp-20-12133-2020](https://doi.org/10.5194/acp-20-12133-2020)
 
 ### Manuscript under preparation
-1. **Shabin, M.**, Singh, G., Singh, L., Chaudhary, P., Mishra, S., Awasthi, A., Sinha, B., & Sinha, V. (2025). **Fugitive halocarbon emissions from open burning over India.**
+1. **Shabin, M.**, Singh, G., Singh, L., Chaudhary, P., Mishra, S., Awasthi, A., Sinha, B., & Sinha, V. (2026). **Fugitive halocarbon emissions from open burning over India.**
 
 ## CONFERENCE CONTRIBUTIONS
 
