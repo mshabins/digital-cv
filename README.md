@@ -73,9 +73,9 @@ Mohali reveal similar NMHC composition across seasons.** *iCACGP-IGAC ECR Online
 
 ## RESEARCH EXPERIENCE
 
- - **Project Assistant *(March 2025- present)*:** Indian Institute of Science Education and Research (IISER), Mohali, India \
+<!-- - **Project Assistant *(March 2025- present)*:** Indian Institute of Science Education and Research (IISER), Mohali, India \
      Advisor: Prof. Vinayak Sinha \
-     Project Title: **Realtime Ambient Source Apportionment of Gases and Aerosol for Mitigation (RASAGAM)**
+     Project Title: **Realtime Ambient Source Apportionment of Gases and Aerosol for Mitigation (RASAGAM)** -->
  
  - **Ph.D. *(Jan 2019- Jun 2025)*:** Indian Institute of Science Education and Research (IISER), Mohali, India \
      Advisor: Prof. Vinayak Sinha \
