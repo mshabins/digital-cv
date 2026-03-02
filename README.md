@@ -32,8 +32,6 @@ academic and cultural events.
 ## EXPERIMENTAL & ANALYTICAL EXPERTISE
 ### Advanced theoretical and experimental working experience on:
 - Thermal Desorption - Gas Chromatography Flame Ionization Detection and Electron Capture Detection (TD-GC-FID/ECD) (Agilent)
-- Proton Transfer Reaction Quadrupole Mass Spectrometer (PTR-QMS) (Ionicon)
-- CHARON-Proton Transfer Reaction Time of Flight Mass Spectrometer (PTR-ToF-MS) (Ionicon)
 - NO-NO<sub>2</sub>-NO<sub>x</sub> analyzer (chemiluminescence) (ThermoFischer Scientific)
 - CO analyzer (Non Dispersive Infrared Red - Gas Filter Correlation) (ThermoFischer Scientific)
 - UV photometric ozone analyzer (ThermoFischer Scientific)
@@ -42,11 +40,13 @@ academic and cultural events.
 - Active sampling of air in SilcoCan sampling canisters (Restek) and glass flasks.
 
 ### Hands on working experience on:
-- Cavity Ring-down Spectrometer (CRDS) (Picarro)
+- Proton Transfer Reaction Quadrupole Mass Spectrometer (PTR-QMS) (Ionicon)
+- CHARON-Proton Transfer Reaction Time of Flight Mass Spectrometer (PTR-ToF-MS) (Ionicon)- Cavity Ring-down Spectrometer (CRDS) (Picarro)
 - Beta attenuation particulate matter analyzers (ThermoFischer Scientific)
 - Tube MAX-DOAS (Satellite Remote Sensing Group, Max Planck Institute for Chemistry)
 - Hands on working experience on spectroscopy instruments (UV-Vis, Fluorescence, IR & Atomic Absorption Spectrometer).
 - Automatic weather station (MeaTech Solutions LLP).
+- Dynamic flux measurements (Plant Chamber).
 - Suspended particulate matter (PM) collection by filtration.
 
 ## PEER REVIEWED JOURNAL PUBLICATIONS
@@ -60,6 +60,7 @@ Mohali reveal similar NMHC composition across seasons.** *Urban Climate, 55,* 10
 
 ### Manuscript under preparation
 1. **Shabin, M.**, Singh, G., Singh, L., Chaudhary, P., Mishra, S., Awasthi, A., Sinha, B., & Sinha, V. (2026). **Fugitive halocarbon emissions from open burning over India.**
+2. Singh, R.,**Shabin, M.**, Mishra, S., Hakkim, H., Awasthi, A., & Sinha, V. (2026). **High-Resolution Assessment of Benzene Exposure and Health Risks Across Urban and Suburban Settings in the Northwest Indo-Gangetic Plain.** 
 
 ## CONFERENCE CONTRIBUTIONS
 
@@ -73,7 +74,7 @@ Mohali reveal similar NMHC composition across seasons.** *iCACGP-IGAC ECR Online
 
 ## RESEARCH EXPERIENCE
 
-<!-- - **Project Assistant *(March 2025- present)*:** Indian Institute of Science Education and Research (IISER), Mohali, India \
+ - **Project Assistant *(March 2025- present)*:** Indian Institute of Science Education and Research (IISER), Mohali, India \
      Advisor: Prof. Vinayak Sinha \
      Project Title: **Realtime Ambient Source Apportionment of Gases and Aerosol for Mitigation (RASAGAM)** -->
  
