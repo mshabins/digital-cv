@@ -6,13 +6,12 @@
 
 
 ## SUMMARY
-- Researcher in atmospheric chemistry with 7+ years of experience in air quality research, field measurements, and data analysis.
-- Led and collaborated on multiple research projects investigating Non-Methane Hydrocarbons (NMHCs), halocarbon emissions, and nocturnal oxidant chemistry in the Indo-Gangetic Plain.
-- Proficient in operating and maintaining advanced analytical instruments, including TD-GC-FID/ECD, CHARON-PTR-ToF-MS, and other trace gas analyzers, for volatile organic compound (VOC) and trace gas measurements.
+- Atmospheric chemist with 7+ years of experience in geoscientific data analysis of atmospheric trace gases, including NMHCs and halocarbons, using field measurements and statistical tools.
+- Led and collaborated on multiple research projects involving geoscientific data analysis of atmospheric trace gases (NMHCs and halocarbons), with a focus on emission characterization and oxidation chemistry in the Indo-Gangetic Plain, one of the most under-sampled regions globally.
+- Experienced in atmospheric trace gas observations and data analysis, including measurement-based emission characterization using advanced instrumentation (TD-GC-FID/ECD, PTR-ToF-MS, PTR-QMS).
 - Published multiple first-author and co-author papers in high-impact peer-reviewed journals.
-- Experienced in teaching, mentoring, and scientific outreach, with a strong track record of organizing
-academic and cultural events.
-- Committed to advancing atmospheric chemistry research and contributing to global air pollution mitigation through interdisciplinary collaboration.
+- Skilled in Python, R, and atmospheric data workflows, with growing expertise in emission estimation and model–measurement integration.
+- Interested in applying observational constraints to improve greenhouse gas emission estimates, particularly for halogenated species (HFCs).
     
 ## EDUCATION
 - **Ph.D. in Atmospheric Sciences** (Jan 2019 - Jun 2025) - Indian Institute of Science Education and Research  [(IISER)](http://www.iisermohali.ac.in/) Mohali, India.  Supervisor- Prof. Vinayak Sinha.\
@@ -24,30 +23,41 @@ academic and cultural events.
 
   ## HIGHLIGHTED PROJECTS
 - **Nocturnal Oxidant Chemistry and Stabilized Criegee Intermediates (SCI)**: Led the one-year project on investigation of the role of SCI in night-time chemistry and sulfate aerosol formation in the northwest IGP, enhancing understanding of secondary aerosol production. (Published as first author)
-- **Non-Methane Hydrocarbon (NMHC) Study in the Indo-Gangetic Plain (IGP)**: Led and designed a two-year project on field measurements and analysis of NMHCs in the polluted IGP region, especially in the megacity of Delhi, providing critical insights into emission sources and air quality impacts. (Published as first author)
-- **Halocarbon Measurements in India**: Led and conducted one of the first detailed studies on halocarbons in India, addressing a significant research gap in atmospheric chemistry. (Manuscript under preparation)
+- **Non-Methane Hydrocarbon (NMHC) Study in the Indo-Gangetic Plain (IGP)**: Led and designed a two-year field and geoscientific data analysis study of NMHCs in the Indo-Gangetic Plain, quantifying emission sources and regional variability in one of the most polluted environments globally (Published as first author).
+- **Halocarbon Measurements in India**: Led and conducted one of the first measurement-based assessments of halocarbon emissions in India, providing constraints on previously under-characterized emission sources (Manuscript under preparation). (Manuscript under preparation)
 - **Non-methane hydrocarbon (NMHC) fingerprints of major urban and agricultural emission sources in the IGP**: Co-led a two-year research project on Non-Methane Hydrocarbon (NMHC) chemical fingerprints from various urban and agricultural emission sources, contributing to data collection and analysis. (Published as co-author)
 - **Open waste burning emission inventory for India (OWBEII) and strategies for effective mitigation in India**: Co-led two research projects focused on quantifying VOC emissions from open waste burning in India and evaluating mitigation strategies to curb pollution. (Published as co-author)
 
 ## EXPERIMENTAL & ANALYTICAL EXPERTISE
 ### Advanced theoretical and experimental working experience on:
 - Thermal Desorption - Gas Chromatography Flame Ionization Detection and Electron Capture Detection (TD-GC-FID/ECD) (Agilent)
+- Proton Transfer Reaction Quadrupole Mass Spectrometer (PTR-QMS) (Ionicon)
+- CHARON-Proton Transfer Reaction Time of Flight Mass Spectrometer (PTR-ToF-MS) (Ionicon)
+- Cavity Ring-down Spectrometer (CRDS) (Picarro)
 - NO-NO<sub>2</sub>-NO<sub>x</sub> analyzer (chemiluminescence) (ThermoFischer Scientific)
 - CO analyzer (Non Dispersive Infrared Red - Gas Filter Correlation) (ThermoFischer Scientific)
 - UV photometric ozone analyzer (ThermoFischer Scientific)
 - SO<sub>2</sub> analyzer (ThermoFischer Scientific)
-- Measurement of Volatile Organic Compounds (VOCs) and in headspace air, ambient air, and smoke samples.
-- Active sampling of air in SilcoCan sampling canisters (Restek) and glass flasks.
 
 ### Hands on working experience on:
-- Proton Transfer Reaction Quadrupole Mass Spectrometer (PTR-QMS) (Ionicon)
-- CHARON-Proton Transfer Reaction Time of Flight Mass Spectrometer (PTR-ToF-MS) (Ionicon)- Cavity Ring-down Spectrometer (CRDS) (Picarro)
 - Beta attenuation particulate matter analyzers (ThermoFischer Scientific)
 - Tube MAX-DOAS (Satellite Remote Sensing Group, Max Planck Institute for Chemistry)
 - Hands on working experience on spectroscopy instruments (UV-Vis, Fluorescence, IR & Atomic Absorption Spectrometer).
 - Automatic weather station (MeaTech Solutions LLP).
 - Dynamic flux measurements (Plant Chamber).
 - Suspended particulate matter (PM) collection by filtration.
+
+## RESEARCH & TECHNICAL SKILLS
+- **Geoscientific Data Analysis & Visualization:** Analysis and interpretation of large atmospheric datasets, including time-series analysis and statistical evaluation (Python, R Studio, MATLAB, IGOR Pro)
+- **Emission Source Characterization:** VOC source apportionment using tracer-based analysis, PMF (hands-on experience) and emission inventory development
+- **Atmospheric Chemistry:** Oxidation pathways, secondary pollutant formation, Criegee intermediate chemistry
+- **VOC Sampling and Analysis:** Collection of volatile organic compounds (VOCs) from ambient air, headspace, and emission sources (e.g., smoke) using active sampling with SilcoCan canisters (Restek) and glass flasks
+- **Field Measurements:** Design and execution of field campaigns in polluted and under-sampled regions
+- **Data–Model Integration:** Interpretation of atmospheric observations to understand chemical processes and emission sources; familiarity with emission estimation approaches and growing interest in integrating measurements with modeling frameworks
+- **Atmospheric Modeling & Tools:** F0AM (box model, basic familiarity), Positive Matrix Factorization (PMF) for source apportionment (basic familiarity), NOAA HYSPLIT (trajectory analysis)
+- **GIS & Spatial Analysis:** QGIS and PanMap for spatial mapping of emissions and atmospheric composition
+- **Instrumentation & Data Acquisition Software:** OpenLAB CDS ChemStation (GC-FID/ECD), Maverick Bonanza (Thermal Desorption), Ionicon Data Analyzer (IDA), PTR-MS Viewer
+- **Programming, Typing & Computing:** Python, R, MATLAB; Overleaf, MSWord; Linux and Windows environments
 
 ## PEER REVIEWED JOURNAL PUBLICATIONS
 
@@ -60,7 +70,8 @@ Mohali reveal similar NMHC composition across seasons.** *Urban Climate, 55,* 10
 
 ### Manuscript under preparation
 1. **Shabin, M.**, Singh, G., Singh, L., Chaudhary, P., Mishra, S., Awasthi, A., Sinha, B., & Sinha, V. (2026). **Fugitive halocarbon emissions from open burning over India.**
-2. Singh, R.,**Shabin, M.**, Mishra, S., Hakkim, H., Awasthi, A., & Sinha, V. (2026). **High-Resolution Assessment of Benzene Exposure and Health Risks Across Urban and Suburban Settings in the Northwest Indo-Gangetic Plain.** 
+2. Singh, R.,**Shabin, M.**, Mishra, S., Hakkim, H., Awasthi, A., & Sinha, V. (2026). **High-Resolution Assessment of Benzene Exposure and Health Risks Across Urban and Suburban Settings in the Northwest Indo-Gangetic Plain.**
+3. Mishra, S., **Shabin, M.**, Hakkim, H., Awasthi, A., Sinha, B., Ghude, S. D., Soni, V. K., Nigam, N., Rajeevan, M. N., & Sinha, V. (2026). **OH reactivity speciation, diurnal variability and seasonality in the megacity of Delhi quantified using PTR-TOF-MS, TD-GC-FID and CRDS measurements.** 
 
 ## CONFERENCE CONTRIBUTIONS
 
@@ -134,17 +145,6 @@ Mohali reveal similar NMHC composition across seasons.** *iCACGP-IGAC ECR Online
 
  - **Training undergraduates and other PhD scholars on TD-GC-FID/ECD *(2019 - present)*:** *Analysis of NMHCs and halocarbons in air samples.* 
    
-   
-## SOFTWARE EXPERTISE
-- **Programming languages:** Python, R, Matlab, LaTeX
-- **Plotting Softwares:** IGOR Pro analysis software, R Studio, Jupyter Notebook
-- **TD-GC-FID/ECD Softwares:** OpenLAB CDS ChemStation (online & offline) (Agilent Technologies), Maverick Bonanza (Thermal Desorption) (Markes International)
-- **PTR-MS Softwares:** Ionicon Data Analyzer (IDA), PTR-MS viewer
-- **Modelling:** F0AM model, Positive Matrix Factorization (PMF) (both hands on experience)
-- **Operating Systems:** Windows, Linux
-- **GIS Softwares:** ArcGIS, PanMap
-- **MS Office:** Powerpoint, Excel
-- **Typing Softwares:** Word, Overleaf
 
 ## WORKSHOPS AND COURSES
 - **Intensive Workshop on Atmospheric and Environmental Chemistry (IWAEC)**, Virtual,  *July 2021*
